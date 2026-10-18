@@ -1,0 +1,6 @@
+myenv/
+data/
+ecommerce-dataset.zip
+*_cadangan.ipynb
+.ipynb_checkpoints/
+__pycache__/
