@@ -1,7 +1,12 @@
-neo4j>=4.0,<4.3
+neo4j==6.4.1
 imdbpy==2020.9.25
 nose==1.3.7
 cinemagoerng>=0.4
 imdbinfo>=0.5
 imdbpy>=2020.9.25
-neo4j==4.2.1
+pandas==3.0.6
+numpy==2.5.4
+scipy==1.18.1
+networkx==3.7
+matplotlib==3.11.2
+tqdm==4.70.1
